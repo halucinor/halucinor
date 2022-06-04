@@ -20,8 +20,7 @@
 `Recommender System`, `MLOps`, `Backend`, `CI/CD`, `DevOps`
 
 ### **📨 Contact**
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:halucinor0@gmail.com)
-(mailto:halucinor0@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:halucinor0@gmail.com)(mailto:halucinor0@gmail.com)]
 
 ### **📜 Blog**
 [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://libertbaek.com/)](https://libertbaek.com/)	
@@ -41,10 +40,10 @@
 -----
 
 ## 💳Cards
-
+<p align = "center">
 [![Solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=halucinor)](https://solved.ac/halucinor)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halucinor)](https://github.com/anuraghazra/github-readme-stats)
-
+</p>
 
 <!--
 **halucinor/halucinor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
