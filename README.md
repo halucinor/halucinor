@@ -19,7 +19,7 @@
 ### 🤔 **I'm Interested in**  
 `Recommender System`, `MLOps`, `Backend`, `CI/CD`, `DevOps`
 
-### **📨 Contact**
+### **📫 How to reach me**
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:halucinor0@gmail.com)(mailto:halucinor0@gmail.com)]
 
 ### **📜 Blog**
@@ -34,16 +34,15 @@
 - **2015.07 ~ 2016.06** 웹엔터프라이즈 시스템 연구실 인턴활동
 - **2015.02 ~ 2015.06** Jyväskylä university of Applied sciences exchange student
 
-<!-- 🌱 I’m currently learning ... -->
 
 
 -----
 
 ## 💳Cards
 <p align = "center">
-[![Solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=halucinor)](https://solved.ac/halucinor)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halucinor)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=halucinor&show_icons=true" height=160/>
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=halucinor" height=160/>
+<p>
 
 <!--
 **halucinor/halucinor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -52,6 +51,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 
+- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
