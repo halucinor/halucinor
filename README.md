@@ -15,12 +15,25 @@
 -->
 ### 🛠️ **My Skills**
 
+<div align = "center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+</div>
+
 
 ### 🤔 **I'm Interested in**  
 `Recommender System`, `MLOps`, `Backend`, `CI/CD`, `DevOps`
 
 ### **📫 How to reach me**
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:halucinor0@gmail.com)(mailto:halucinor0@gmail.com)]
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:halucinor0@gmail.com)](mailto:halucinor0@gmail.com)
 
 ### **📜 Blog**
 [![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://libertbaek.com/)](https://libertbaek.com/)	
@@ -36,13 +49,14 @@
 
 
 
+
 -----
 
 ## 💳Cards
-<p align = "center">
+<div align = "center">
   <img src="https://github-readme-stats.vercel.app/api?username=halucinor&show_icons=true" height=160/>
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=halucinor" height=160/>
-<p>
+<div>
 
 <!--
 **halucinor/halucinor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
