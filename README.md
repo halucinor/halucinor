@@ -9,7 +9,6 @@
 ### I'm
 
 - Programmer
-- 💻 ML Engineer
 - INTJ
 - 
 -->
@@ -36,7 +35,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:halucinor0@gmail.com)](mailto:halucinor0@gmail.com)
 
 ### **📜 Blog**
-[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://libertbaek.com/)](https://https://halucinor.github.io/)
+[![Static Badge](https://img.shields.io/badge/Tistory-orange)](https://libertbaek.tistory.com)
 
 
 ### **🎞️ My experience**
