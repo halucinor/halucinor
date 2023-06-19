@@ -30,7 +30,7 @@
 
 
 ### 🤔 **I'm Interested in**  
-`RecSys`, `fastAPI`, `Starlite-api`, `GitAction`, `DevOps`, `MLOps`
+`RecSys`, `fastAPI`, `Git-Action`, `DevOps`, `MLOps`, `Cloud`
 
 ### **📫 How to reach me**
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:halucinor0@gmail.com)](mailto:halucinor0@gmail.com)
@@ -40,7 +40,7 @@
 
 
 ### **🎞️ My experience**
-
+- **2023.01 ~ Now** 가비아 클라우드 서비스 개발 팀 
 - **2022.01 ~ 2022.06** 네이버 부스트캠프 AI tech 3기  
 - **2020.01 ~ 2022.02** 롯데정보통신 ERP컨설팅 팀  
 - **2019.09 ~ 2019.10** 케라콘-케라스기반챗봇시스템 컨트리뷰터
