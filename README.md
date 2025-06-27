@@ -12,6 +12,11 @@
 - INTJ
 
 -->
+
+
+[![Portfolio](https://img.shields.io/badge/🚀_PORTFOLIO-LAUNCH-blueviolet?style=for-the-badge)](https://halucinor.github.io/portfolio/html)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-백승주-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/승주-백-ba6747170)
+
 ### 🛠️ **My Skills**
 
 <div align = "center">
